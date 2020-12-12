@@ -70,7 +70,7 @@ class Application {
             })
                 .then(res => res.json())
                 .then(id => {
-                    console.log(`../uploads/${id}.png`);
+                    console.log(`../uploads/${id}.png `);
                     this.controlHelper.addBoid(`../uploads/${id}.png`)
                         .then((entity) => {
                             console.log(entity.mesh);
