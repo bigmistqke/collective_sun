@@ -1,0 +1,29 @@
+/*! export default [provided] [no usage info] [missing usage info prevents renaming] */
+
+/*! exports [not provided] [no usage info] */
+
+/*! namespace exports */
+
+/*! other exports [not provided] [no usage info] */
+
+/*! runtime requirements: __webpack_require__, __webpack_require__.r, __webpack_exports__, __webpack_require__.* */
+
+/*! runtime requirements: __webpack_require__, __webpack_require__.r, __webpack_exports__, __webpack_require__.d, __webpack_require__.* */
+
+/*! runtime requirements: __webpack_require__.r, __webpack_exports__, __webpack_require__.d, __webpack_require__.* */
+
+/*!***************************!*\
+  !*** ./src/boids/Grid.js ***!
+  \***************************/
+
+/*!*****************************!*\
+  !*** ./src/boids/Entity.js ***!
+  \*****************************/
+
+/*!**********************************!*\
+  !*** ./src/boids/BoidsWorker.js ***!
+  \**********************************/
+
+/*!**************************************!*\
+  !*** ./src/boids/BoidsController.js ***!
+  \**************************************/

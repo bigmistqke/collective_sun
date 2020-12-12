@@ -1,0 +1,18 @@
+body{
+    margin:0px;
+    padding:0px;
+    width:100vw;
+    height:100vh;
+}
+
+#webcam__canvas{
+    display:none;
+}
+#threejs{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width: 100%;
+    height:100%;
+    z-index: 1;
+}

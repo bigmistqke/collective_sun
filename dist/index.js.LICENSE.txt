@@ -1,0 +1,9 @@
+/*! exports [not provided] [no usage info] */
+
+/*! namespace exports */
+
+/*! runtime requirements: __webpack_require__.r, __webpack_exports__, __webpack_require__.* */
+
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
