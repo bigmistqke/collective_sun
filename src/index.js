@@ -119,7 +119,7 @@ const addSpheres = (data) => {
 
     })
 }
-
+// @vincentvandijck
 const initSun = () => {
     let sunTexture;
     let count = 0;
